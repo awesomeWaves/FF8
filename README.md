@@ -27,6 +27,7 @@ Value used as a field random number (1 byte)
   
  
 * Tied along with routing from previous point; I may need to find a distance between values that would naturally cause the 4th formation.
+  This is values > 240 on the danger limit table.
   This would be very important to potentially: 
                                                 Get bats in Fire Cavern,
                                                 Get 3 Soldiers on Bridge in Dollet
